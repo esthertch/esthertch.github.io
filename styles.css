@@ -13,6 +13,7 @@ body {
 	-o-font-smoothing: antialiased;
 	overscroll-behavior-x: none;
 	overscroll-behavior-y: none;
+	margin: 0px !important;
 }
 
 header{
