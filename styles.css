@@ -1168,6 +1168,8 @@ ul li:hover ul li{
 		font-size: 2.5rem;
 		text-align: left;
 		padding: 30px;
+		line-height: 1rem;
+		letter-spacing: 0.2em;
 	}
 	
 	h5 {
