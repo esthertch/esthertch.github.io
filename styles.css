@@ -101,7 +101,7 @@ hr{
 @media (max-width: 576px) {
 
 	a:hover{ 
-		text-decoration-line: none;
+		text-decoration-line: underline;
 		text-decoration-style: none; 
 		opacity:0.6;
 		font-style: oblique;
