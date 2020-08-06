@@ -95,6 +95,10 @@ hr{
    text-align: center; 
 }
 
+.hide {
+    display:block;
+}
+
 
 
 /* Small devices (portrait phones and large phones, 576px and below) */
@@ -132,7 +136,7 @@ hr{
     margin-left:0;
     }
 
-    br {
+    .hide {
         display:none;
     }
 }
