@@ -96,7 +96,7 @@ hr{
 }
 
 .space {
-    display:none;
+    display:inline-block;
 }
 
 
@@ -137,6 +137,6 @@ hr{
     }
 
     .space {
-        display:block;
+        display:none;
     }
 }
