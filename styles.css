@@ -131,4 +131,8 @@ hr{
     text-align: left;
     margin-left:0;
     }
+
+    br {
+        position: clear;
+    }
 }
