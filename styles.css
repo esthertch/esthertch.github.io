@@ -133,6 +133,6 @@ hr{
     }
 
     br {
-        position: clear;
+        display:none;
     }
 }
