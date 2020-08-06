@@ -95,9 +95,6 @@ hr{
    text-align: center; 
 }
 
-.space {
-    display:block;
-}
 
 
 
@@ -136,7 +133,4 @@ hr{
     margin-left:0;
     }
 
-    .space {
-        display:none;
-    }
 }
