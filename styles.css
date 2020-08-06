@@ -109,12 +109,11 @@ hr{
 	}
 
     .main_bg{
-        padding: 30px;
+        padding: 30 70 30 30;
     }
 
     .intro_child{
         text-align: left;
-        padding-right: 100px;
 	}
 	
 
@@ -126,7 +125,7 @@ hr{
 
     h6{
         font-size: 1.1rem;
-        
+        padding-right: 30px;
     }
 
     hr{
