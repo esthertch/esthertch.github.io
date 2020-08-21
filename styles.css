@@ -116,9 +116,6 @@ hr{
         text-align: left;
 	}
     
-    #second{
-        text-align: right;
-    }
 
     h4{
         font-size: 1.5rem;
@@ -132,8 +129,13 @@ hr{
     }
 
     hr{
-    text-align: left;
+    text-align: right;
     margin-left:0;
+    }
+
+    #second{
+        padding-top: 30px;
+        text-align: right;
     }
 
 }
